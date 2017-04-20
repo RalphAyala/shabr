@@ -19,3 +19,33 @@
 .navbar-inverse .navbar-nav>.dropdown>a .caret { border-bottom-color: #007FDA}
 .navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-bottom-color: #007FDA}
 
+.navbar-default{
+    font-size: 17px;
+    background-color: #577b8a
+    border-width: 18px;
+    border-radius: 22px;
+}
+.navbar-header{
+    background-color: #577b8a;
+    
+}
+.navbar-brand{
+    color: #577b8a
+}
+.navbar-toggle{
+    border-color: #577b8a;
+}
+.sr-only{
+    Color: #577b8a
+}
+.navbar-nav{
+    
+    background-color: #577b8a
+}
+.active{
+   
+    background-color: #577b8a
+}
+.icon-bar{
+    background-color: #577b8a
+}
